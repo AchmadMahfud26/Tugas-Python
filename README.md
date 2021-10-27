@@ -15,8 +15,7 @@ print("Assalamu'alaikum. Let me introduce my self. My name is",
  umur,"years old. I am very glad if you want to invite my house in",
 alamat,". So, don't forget to call me before with the number", ponsel,
 "Thanks You")
-
-Tugas Seperti pada gambar
-![img](img/ss1.png)
 Latihan Seperti pada gambar
 ![img](img/ss2.png)
+Tugas Seperti pada gambar
+![img](img/ss1.png)
