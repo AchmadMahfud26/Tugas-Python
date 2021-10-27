@@ -16,6 +16,3 @@ print("Assalamu'alaikum. Let me introduce my self. My name is",
 alamat,". So, don't forget to call me before with the number", ponsel,
 "Thanks You")
 
-
-Gambar saat di run
-![img](img\SS1.png)
