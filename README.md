@@ -16,3 +16,7 @@ print("Assalamu'alaikum. Let me introduce my self. My name is",
 alamat,". So, don't forget to call me before with the number", ponsel,
 "Thanks You")
 
+Tugas Seperti pada gambar
+![img](img/ss1.png)
+Latihan Seperti pada gambar
+![img](img/ss2.png)
