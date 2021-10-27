@@ -18,4 +18,4 @@ alamat,". So, don't forget to call me before with the number", ponsel,
 
 
 Gambar saat di run
-![img](img/SS1.PNG)
+![img](img\SS1.png)
